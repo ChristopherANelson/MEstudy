@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    width: 300px;
+    margin: auto;
+}
+
+a {
+    background-color: gray;
+    text-decoration: none;
+    color: white;
+    margin: auto;
+    padding: 8px;
+    border-radius: 8px;
+}
