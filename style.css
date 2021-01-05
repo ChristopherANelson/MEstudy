@@ -1,18 +1,49 @@
 body{
-    background-color: aqua;
     font-family: 'Poppins', sans-serif;
 }
 
-img {
-    width: 300px;
-    margin: auto;
+.header {
+    margin: 0 auto;
+    text-align: center;
 }
 
-a {
-    background-color: gray;
+.classList {
+    margin: 0 auto;
+    background-color: lightblue;
+    width: 500px;
+    text-align: center;
+}
+
+.classList li {
+    list-style-type: none;
+}
+.classList a {
     text-decoration: none;
-    color: white;
-    margin: auto;
-    padding: 8px;
-    border-radius: 8px;
+}
+
+
+.content {
+    margin: 0 auto;
+    width: 700px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.content li {
+    list-style-type: none;
+    background-color: rgb(48, 48, 48);
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+}
+.content a {
+    text-decoration: none;
+    color:white;
+}
+
+
+.heroPattern {
+text-align: center;
+font-size: 3em;
 }
